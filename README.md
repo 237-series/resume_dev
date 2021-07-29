@@ -13,7 +13,7 @@ Swift, Objc를 바탕으로 아이폰 개발과 다른 언어에도 관심을 �
 ## 회사경력
 - 프리랜서(2014~2020)
 
-## Projects
+## 외부 프로젝트 
 
 ### 도어락제어, 2019. 
 ![projects2019-01](https://user-images.githubusercontent.com/55435124/127458726-5b0f45b5-b8a9-45fd-afe0-57e41a9d399a.png)
@@ -27,10 +27,27 @@ Swift, Objc를 바탕으로 아이폰 개발과 다른 언어에도 관심을 �
 - 관련기술: Swift 4.2, RESTful API, Toast-Swift, iOS AutoLayout 활용한 UI 구현
 
 ### 스마트 베개 제어 앱, 2018. 
-
+![그림8](https://user-images.githubusercontent.com/55435124/127526757-ec15a29a-1991-42b2-ace7-73ff9835e4d8.png)
 - 소개: 수면의 상태를 측정하는 스마트 베개 제어 앱 
-- 역할: 기존 개발되어 있던 앱 성능개선, 앱의 시차와 측정값에 따른 오차 개선
+- 역할: 기존 개발되어 있던 앱 성능개선, 앱의 시차와 측정값에 따른 오차 개선, 버그 수정
 - 관련기술: Swift 3.0, Chart for ios (by danielgindi), 
+
+
+### 세종시가이드 UI 업데이트, 2018.
+![그림6](https://user-images.githubusercontent.com/55435124/127525390-fc0a0b16-09e0-4205-b2cf-864d8cecb543.png)
+- 소개: 기존 개발되어 있는 세종시의 정보를 제공하는 앱의 업데이트
+- 역할: UI 레이아웃 전체 변경, 일부 기능 개선
+- 관련기술: objc, Storyboard 사용 
+
+### 목표기반 SNS, 2017. 
+![그림7](https://user-images.githubusercontent.com/55435124/127525722-3b726b83-3844-47f6-b607-57ac49b41d0d.png)
+- 소개: 목표 기반 SNS로 제공되는 앱 
+- 주요기능: 
+	- 메시지: 푸시 서비스 및 서버 기반으로 동작하는 개인간 메시지 구현 
+	- 사진 및 텍스트 작성 기능(Rich Text 기반)
+	- 이미지 목록화, 랭킹별 사용자 표시, 댓글 기능
+- 역할: 목표 기반 SNS 서비스의 아이폰 포팅
+- 관련기술: objc 로 작성(1차), Swift 컨버팅(2차), Multi-part Upload, 
 
 ### 플라즈맵 ITS, 2015. 
 ![그림4](https://user-images.githubusercontent.com/55435124/127523230-450feeca-d898-42cb-b982-d68e246102b3.png)
@@ -70,12 +87,17 @@ Swift, Objc를 바탕으로 아이폰 개발과 다른 언어에도 관심을 �
 - 관련기술: CoreData(DB), PICircularProgressView for iOS (by DerPipo) ,  SBStackedBarChart for iOS (by Scott Bossak)
 
 
+## 개인 프로젝트
+
+
+
 ## 학력
 - 충남대학교 컴퓨터공학과 박사수료( 2018.2 )
 - 충남대학교 컴퓨터공학과 석사취득( 2016.2 )
 - 충남대학교 컴퓨터공학과 학사졸업( 2014.2 )
 
-### TA 수업 경력
+### TA 수업 및 특강 경력
+
 
 ## 사용 기술 
 ### iOS
