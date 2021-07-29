@@ -1,6 +1,7 @@
 # 개발 이력서 2021.07
 
 ## 소개
+![profile](https://user-images.githubusercontent.com/55435124/127426553-22d0a1f3-fc71-46af-b763-547e77c3fcb2.jpg)
 ### 이상길
 안녕하세요. 개발자 이상길입니다. 
 Swift, Objc를 바탕으로 아이폰 개발과 다른 언어에도 관심을 가지고 있습니다. 
