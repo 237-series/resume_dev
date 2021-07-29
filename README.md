@@ -14,7 +14,12 @@ Swift, Objc를 바탕으로 아이폰 개발과 다른 언어에도 관심을 �
 - 프리랜서(2014~2020)
 
 ## Projects
-
+### 식습관 에이전트, 2014.
+![projects001](https://user-images.githubusercontent.com/55435124/127427622-d427e8ae-fb9f-4152-90a3-c06554182118.png)
+- 소개: 자신이 섭취한 음식 데이터를 통하여 하루 섭취 칼로리를 계산하여, 3대 영양소 섭취 비율을 알려 주는 것, 시연용으로 로컬로 제작 
+- 주요기능: 각 날짜 기반으로 데이터 저장됨, 저장된 데이터를 통해서 첫 화면 개요 표시, 날짜별 화면 이동, 식단 간편 입력, 과거 날짜별 이력 조회 등
+- 역할: 전체 기능 구현
+- 관련기술: CoreData(DB), PICircularProgressView for iOS (by DerPipo) ,  SBStackedBarChart for iOS (by Scott Bossak)
 
 ## 학력
 - 충남대학교 컴퓨터공학과 박사수료( 2018.2 )
