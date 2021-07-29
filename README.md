@@ -46,7 +46,13 @@ Swift, Objc를 바탕으로 아이폰 개발과 다른 언어에도 관심을 �
 	- 서비스기능: 운동량 읽어와서 저장, 실시간 걸음 정보 연동 
 	- 소셜로그인, 소셜 공유 기능 
 - 역할: 전체 앱 개발, ble 통신 파트 개발
-- 관련 기술: objc, RESTful API, ble managing
+- 관련기술: objc, RESTful API, ble managing
+
+### ble 연구를 위한 도움 앱, 2015. 
+![그림5](https://user-images.githubusercontent.com/55435124/127524159-22eebf2f-5e7d-40ad-a671-649d8432a346.png)
+- 소개: BLE 관련 연구를 위한 비콘 정보 제어 앱
+- 주요기능: ble 관련 패킷의 정보 출력, ble Peripharal 정보 제어 후 동작
+- 관련기술: objc, ble managing
 
 ### 시설장비모니터링, 2015.
 ![그림1](https://user-images.githubusercontent.com/55435124/127519975-23b6f70d-74cc-4b53-99ab-3a0157768df1.png)
