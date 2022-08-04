@@ -1,4 +1,4 @@
-# 개발 이력서 2021.07
+# 개발 이력서 
 
 ## 소개
 ![profile](https://user-images.githubusercontent.com/55435124/127426553-22d0a1f3-fc71-46af-b763-547e77c3fcb2.jpg)
